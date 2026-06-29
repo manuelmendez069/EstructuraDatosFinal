@@ -1,0 +1,37 @@
+# Maven
+target/
+bin/
+*.class
+*.jar
+*.war
+
+# IDE - IntelliJ
+.idea/
+*.iml
+*.iws
+
+# IDE - VS Code
+.vscode/
+
+# IDE - NetBeans
+nbproject/
+nbactions.xml
+
+# Archivos pesados (versión comprimida en Presentacion_e_Informe.zip)
+*.pptx
+*.docx
+
+# OpenCode
+.atl/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# JavaFX natives (if any)
+*.dll
+*.so
+*.jnilib
